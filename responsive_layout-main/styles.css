@@ -35,10 +35,8 @@ body{
     height: 100%;
     transition: width 2s,height 2s,transform 2s;
 }
-.img-banner:hover
-{
+.img-banner:hover{
     transform: scale(1.05);
-    /* transform: skewX(20deg); */
 }
 .content{
     width: 100%;
@@ -93,7 +91,6 @@ body{
     background-color: white;
     box-shadow: 0px 4px 7px rgba(0,0,0,.5);
     border: 0px solid #fff;
-    /* background: url(./Images/mi.png); */
 }
 .foot3{
     width: 25%;
@@ -101,7 +98,6 @@ body{
     background-color: white;
     box-shadow: 0px 4px 7px rgba(0,0,0,.5);
     border: 0px solid #fff;
-    /* background: url(./Images/rcb.jpeg); */
 }
 .foot4{
     width: 25%;
@@ -109,7 +105,6 @@ body{
     background-color: white;
     box-shadow: 0px 4px 7px rgba(0,0,0,.5);
     border: 0px solid #fff;
-    /* background: url(./Images/kxip.png); */
 }
 .title-img{
     width: 100%;
@@ -221,5 +216,4 @@ body{
     .foot4{
         width: 100%;
     }
-
 }
