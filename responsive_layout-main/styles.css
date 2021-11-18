@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 body{
     background-color: rgba(216, 205, 205, 0.884);
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
 }
 .container{
     width: 100%;
